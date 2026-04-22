@@ -60,12 +60,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oleonardomedeiros" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5582998404124" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/oleonardomedeiros" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo" /></a>&nbsp;
+  <a href="https://wa.me/5582998404124" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo" /></a>
 </div>
 
 ###
