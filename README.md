@@ -1,29 +1,71 @@
-<h1> Hey! I'm Leonardo Medeiros 🤘 </h1>
+<h1 align="center">Hey 👋What's Up? I'm Leonardo Medeiros</h1>
 
-<div>
-<img src="https://media.tenor.com/images/7195dbf52162f52d37e86cb119601a23/tenor.gif" align="center" style="width: 100%" />
-</div>  
-  
+###
 
-# 🤵🏽 About Me:
-🖥️ I'm amateur Ruby on Rails and React developer  <br>  <br>🌱 I’m currently learning Ruby on Rails and Vue.js  <br> <br>❓ Ask me about anything related to Ruby and related technologies  <br>  
+<h4 align="left">Sou desenvolvedor back-end com foco no ecossistema TOTVS Protheus, atuando principalmente com AdvPL e TLPP. Hoje trabalho como freelancer entregando customizações para clientes de diferentes segmentos: rotinas, relatórios, pontos de entrada e integrações, sempre com atenção às boas práticas TOTVS e à aderência às regras de negócio de cada cliente.<br><br>Meu caminho até o desenvolvimento não foi o tradicional — e é justamente isso que fortalece minha forma de programar. Antes de migrar para a área técnica, passei anos em funções de Marketing, BI e gestão de TI, incluindo experiência como consultor comercial BI na Stone e como Gestor de Marketing e TI no Ministério LER. Essa bagagem me dá algo que costuma faltar no dia a dia de quem só conhece código: visão de negócio, comunicação direta com stakeholders e capacidade de traduzir necessidades reais em soluções técnicas — algo essencial em projetos de ERP.<br><br>Stack e tecnologias com que trabalho: AdvPL, TLPP, TOTVS Protheus, Java, SQL (SQL Server / PostgreSQL), Docker, Postman, além de conhecimentos em Ruby on Rails, React.js e Tailwind CSS para projetos complementares.<br><br>Estou em constante evolução técnica, estudando arquitetura de software, APIs REST e boas práticas de código limpo para entregar customizações mais robustas, escaláveis e fáceis de manter.</h4>
 
+###
+<br>
+<h3 align="center">Stack:</h3>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lesoname) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lesoname) 
+###
 
-# 💻 Technologies:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lesoname&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lesoname&theme=algolia&hide_border=false)<br/>
-![](https://activity-graph.herokuapp.com/graph?username=lesoname&bg_color=050f2c&color=00adfe&line=5BCDEC&point=FFFFFF&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lesoname&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+</div>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+###
+<br>
+<h3 align="center">Activity:</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=lesoname&icon=5&color=1)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oleonardomedeiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=oleonardomedeiros&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+<br>
+<h3 align="center">GitHub Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oleonardomedeiros&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+<br>
+<h3 align="center">Contact:</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oleonardomedeiros" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5582998404124" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
